@@ -1,0 +1,152 @@
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+.si{
+    margin-bottom: 400px;
+}
+.ttr{
+    
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+nav{
+    text-align: center;
+    background-color: red;
+
+}
+svg{
+    float: right;
+
+}
+.f{
+    margin-right: 600px;
+}
+a{
+    background-color: red;
+}
+.tr{
+    padding: 3px;
+}
+.h1{
+    text-align: center;
+}
+.h2{
+margin-left: 400px;
+
+
+}
+footer{
+    padding-bottom: 70px;
+    background-color: red;
+}
+.som{
+    margin-left: 150px;
+
+
+}
+.kal{
+  margin-left: 200px;
+}
+
+.s{
+   
+    width: 800px;
+    display: block;
+}
+.a{
+    width: 400px;
+    color: white;
+   
+}
+.sec{
+    display: flex;
+}
+.se{
+    display: flex;
+    width: 400px;
+}
+.ar{
+    width: 400px;
+    color: white;
+}
+.sect{
+    display: flex;
+   
+}
+.sa{
+    margin-left: 200px;
+}
+.so{
+    margin-left: 150px;
+}
+.img{
+   position: absolute;
+    top: 1650px;
+    left: 100px;
+}
+.img1{
+    position: absolute;
+    top: 1650px;
+    right: 100px;
+
+}
+.sii{
+    display: flex;
+
+
+}
+p{
+    text-align: center;
+}
+.tr:hover{
+    background-color: green;
+    border-radius: 5px;
+    transition: 3s;
+    
+
+}
+
+ .som:hover{
+    transition: 2s;
+   
+    box-shadow: 3px 3px 3px 3px white;
+ }   
+ .set:hover{
+    transition: 2s;
+    box-shadow: 3px 3px 3px 3px white;
+ }
+ .kal:hover{
+    transition: 2s;
+    box-shadow: 3px 3px 3px 3px white;
+ }
+ .sy{
+    margin-right: 100px;
+ }
+
+ .trt:hover{
+    width: 120px;
+    height: 120px;
+    transition: 3s linear;
+ }
+.m2:hover{
+    width: 120px;
+    height: 120px;
+    transition: 3s linear;
+}
+.m1:hover{
+    width: 120px;
+    height: 120px;
+    transition: 3s linear;
+}
+ 
+
+    
+
+
+
+
